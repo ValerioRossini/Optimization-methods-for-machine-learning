@@ -1,0 +1,18 @@
+Homework 2, Question 1
+Training objective function,-95.910987
+Test accuracy,0.914286
+Training computing time,4.317442
+Function evaluations,31
+Gradient evaluations,26
+Homework 2, Question 2
+Training objective function,-0.486170
+Test accuracy,0.907143
+Training computing time,2.398249
+Outer iterations,88
+Function evaluations,361
+Gradient evaluations,348
+Homework 2, Question 3
+Training objective function,-93.651238
+Test accuracy,0.907143
+Training computing time,5.299590
+Outer iterations,232
